@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36717.8 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Capa.Backend", "Capa.Backend\Capa.Backend.csproj", "{34CF4599-CAB6-44BC-906B-961BED88F455}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Capa.Shared", "Capa.Shared\Capa.Shared.csproj", "{6D852396-3C3E-4439-9F3E-8EFC60AAE075}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34CF4599-CAB6-44BC-906B-961BED88F455}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34CF4599-CAB6-44BC-906B-961BED88F455}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34CF4599-CAB6-44BC-906B-961BED88F455}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34CF4599-CAB6-44BC-906B-961BED88F455}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D852396-3C3E-4439-9F3E-8EFC60AAE075}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D852396-3C3E-4439-9F3E-8EFC60AAE075}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D852396-3C3E-4439-9F3E-8EFC60AAE075}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D852396-3C3E-4439-9F3E-8EFC60AAE075}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3678405E-1E63-439A-BFF7-94A7AD7648E8}
+	EndGlobalSection
+EndGlobal
